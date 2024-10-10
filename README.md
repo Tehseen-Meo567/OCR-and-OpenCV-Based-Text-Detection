@@ -1,8 +1,10 @@
-**DESCRIPTION**
+# **DESCRIPTION**
 
-OCR is referred as optical character recognition, it is a technology that allows you to scan and convert text from images into editable text. In this Computer Vision Project, using openCV and easyocr, text present in the image would be detected and would be shown outside the rectangular boundary.
+OCR is referred as optical character recognition, it is a technology that allows you to scan and convert text from images into editable text. 
 
-**REQUIREMENTS/INSTALLATION**
+In this Computer Vision Project, with help of OPENCV and easyocr libraries, text present in the image would be detected and would be shown outside the rectangular boundary.
+
+# **REQUIREMENTS/INSTALLATION**
 
 1-OpenCV 
   (command: !pip install cv2)
@@ -14,7 +16,7 @@ OCR is referred as optical character recognition, it is a technology that allows
 
 4-Numpy
 
-**INPUTS**
+# **INPUTS**
 
 
 ![Image](https://github.com/users/Tehseen-Meo567/projects/1/assets/165558761/390a549b-8c4e-4c48-9197-2d7165554376)
@@ -24,7 +26,7 @@ OCR is referred as optical character recognition, it is a technology that allows
 
 
 
-**OUTPUTS**
+# **OUTPUTS**
 
 ![Image](https://github.com/users/Tehseen-Meo567/projects/1/assets/165558761/0bfdf125-65c3-4a80-ba25-ed6237a8900e)
 
